@@ -2,3 +2,6 @@ venv311/
 __pycache__/
 *.pyc
 .env
+
+session_6_document_loaders/books
+session_7_text_splitting/Sriniously-Backend-Guide_Enhanced.pdf
