@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .env
 
-session_6_document_loaders/books
-session_7_text_splitting/Sriniously-Backend-Guide_Enhanced.pdf
+session_6_document_loaders/books/*.pdf
+session_7_text_splitting/Sriniously-Backend-Guide-Enhanced.pdf
